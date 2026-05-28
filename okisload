@@ -1,3 +1,5 @@
 {
-"SendTraffic" : false
+"SendTraffic" : false,
+"SendTrafficImage" : "https://raw.githubusercontent.com/ataeer/teeets/refs/heads/main/IMG_4495.PNG"
+"GameLink" : "shopify.com"
 }
